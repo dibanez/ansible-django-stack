@@ -20,10 +20,12 @@
     - ntp
     - htop
     - git
+    - vim
     - libpq-dev
     - python-dev
     - python-pip
     - python-pycurl
+    - python3-pip
     - supervisor
   tags: packages
 
